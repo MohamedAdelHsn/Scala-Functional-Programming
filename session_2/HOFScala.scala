@@ -5,7 +5,7 @@ object HOFScala {
 
   // function test1
   val test1 :(Double) =>Double = _ / 2
-  // function test1
+  // function test2
   val test2 :(Double) => Double = _ / 4 + 1
 
   def main(args: Array[String]): Unit = {

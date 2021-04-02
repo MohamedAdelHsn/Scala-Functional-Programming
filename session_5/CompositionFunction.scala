@@ -1,7 +1,10 @@
+
 object Composition {
 
+  
   def main(args: Array[String]): Unit = {
 
+    
     val myData = List[Int](3, 5, 7, 8)
 
 
